@@ -14,3 +14,13 @@ install:
 
 script:
   - "PYTHONPATH=. py.test --cov=language_detector tests"
+
+notifications:
+  webhooks:
+    urls:
+      - http://requestb.in/11lkkui1
+    on_success: always
+    on_failure: never
+    on_start: never
+
+
