@@ -18,7 +18,7 @@ script:
 notifications:
   webhooks:
     urls:
-      - http://requestb.in/11lkkui1
+      - http://staging.rmotr.com/api/v1/webhooks/travis/project-resolved
     on_success: always
     on_failure: never
     on_start: never
