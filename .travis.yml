@@ -18,7 +18,7 @@ script:
 notifications:
   webhooks:
     urls:
-      - https://requestb.in/
+      - http://requestb.in/1d1sdzn1
     on_success: always
     on_failure: never
     on_start: never
