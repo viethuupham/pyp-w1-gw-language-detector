@@ -1,5 +1,11 @@
 # [pyp-w1] Language Detector
 
+## Introduction
+
+This is your first group project! You will probably find it very simple to resolve, and that's expected. Because the main goal of this coding session is to get familiarized with the whole GIT, Github, Cloud9 workflow. For further details, please make sure to read our Group Projects Guide: [http://learn.rmotr.com/python/rmotrcom-group-projects-guide](http://learn.rmotr.com/python/rmotrcom-group-projects-guide)
+
+## Today's project
+
 You will need to build a program that is able to detect the language of certain piece of text given by the user. For that you will need to respect the following interface:
 
 ```python
